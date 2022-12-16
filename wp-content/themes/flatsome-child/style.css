@@ -1,0 +1,137 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.product-small .product-title{
+	min-height: 41px;
+}
+.section-title-normal span{
+	border-bottom: none;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px !important;
+}
+.section-noi-bat .section-title-normal{
+	border:1px dashed white !important;
+}
+.section-title-normal{
+	border:1px dashed #834453;
+}
+.section-noi-bat .box-text{
+	background: #EEEEEE;
+}
+/*Màu sắc button*/
+.social-button, .social-icons .button.icon:not(.is-outline), .social-icons .button.icon:hover {
+	background-color: currentColor !important;
+	border-color: currentColor !important;
+}
+.button.facebook,.button.facebook:not(.is-outline), .button.facebook:hover {
+	color: #fff;
+	background-color: #446084;
+	border-color: #446084;
+}
+.button.twitter,.button.twitter:not(.is-outline), .button.twitter:hover {
+	color: white !important;
+	background : #2478ba !important;
+	border-color: #2478ba;
+}
+.button.email,.button.email:not(.is-outline), .button.email:hover {
+	color: #fff;
+	background-color: black !important;
+	border-color: black !important;
+}
+.button.pinterest,.button.pinterest:not(.is-outline), .button.pinterest:hover {
+	color: #fff !important;
+	background-color: #cb2320  !important;
+	border-color: #cb2320  !important;
+}
+
+.button.google-plus,.button.google-plus:not(.is-outline), .button.google-plus:hover {
+	color: #fff !important;
+	background-color: #dd4e31 !important;
+	border-color: #dd4e31  !important;
+}
+.button.linkedin,.button.linkedin:not(.is-outline), .button.linkedin:hover {
+	color: #fff !important;
+	background-color: #0072b7 !important;
+	border-color: #0072b7     !important;
+}
+
+.single-date{
+	border-bottom: 1px dashed #ededed;
+}
+h1.entry-title{
+	font-size: 24px !important;
+}
+/*Kết thúc màu sắc*/
+
+
+
+footer.entry-meta {
+
+	border-top: none !important;
+	border-bottom: 1px dashed #ececec !important;
+
+}
+
+.entry-content img{
+	width: auto !important
+}
+.duong-line {
+	background: rgba(0,0,0,0) url(images/line.png) repeat scroll 0 0;
+	height: 12px;
+	margin-top: 5px;
+	overflow: hidden;
+}
+.related-post h7{
+	font-weight: bold;
+	font-size: 18px;
+	float: left;
+	margin: -8px 20px 0 0;
+}
+
+
+h3.bo-suu-tap{
+	color: white;
+	font-size: 27px;
+}
+h2.mien-phi{
+	font-size: 45px;
+
+	color: #EADD4B;
+}
+p.des-1{
+	color: #238573;
+	text-align: center;
+	font-weight: bold;
+	font-size: 22px
+}
+p.des-2{
+	font-weight: bold;
+	color: white;
+}
+.row-header .col{
+	padding-bottom: 0px;
+}
+.row-header .icon-box-text h3{
+	font-size: 12px;
+	text-transform: uppercase;
+	margin-bottom: 0px;
+}
+.row-header .icon-box-text p{
+	font-size: 12px;
+	font-weight: bold;
+}
+span.amount{
+	color: red;
+}
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+}

@@ -1,0 +1,700 @@
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthoitrang.webtudong8giay.com%252Fsan-pham%252Fao-len-nu-mong-co-tron-dai-tay-det-do%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthoitrang.webtudong8giay.com%252Fsan-pham%252Fao-soi-len-linen-det-ma-in-hoa-tiet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://thoitrang.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/?add-to-cart=124
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\index-1.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thoitrang.webtudong8giay.com/cua-hang/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\cua-hang\index.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/danh-muc/ao-len-nu/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\danh-muc\ao-len-nu\index.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/danh-muc/ao-nu/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\danh-muc\ao-nu\index.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/danh-muc/chan-vay/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\danh-muc\chan-vay\index.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thoitrang.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/san-pham/ao-len-nu-mong-co-tron-dai-tay-det-do/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\san-pham\ao-len-nu-mong-co-tron-dai-tay-det-do\index.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/san-pham/ao-len-nu-mong-co-tron-dai-tay-det-do/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\san-pham\ao-len-nu-mong-co-tron-dai-tay-det-do\index-2.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/san-pham/ao-len-nu-mong-co-tron-dai-tay-det-do/?add-to-cart=117
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\san-pham\ao-len-nu-mong-co-tron-dai-tay-det-do\index-3.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/san-pham/ao-len-nu-mong-co-tron-dai-tay-det-do/?add-to-cart=124
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\san-pham\ao-len-nu-mong-co-tron-dai-tay-det-do\index-1.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/san-pham/ao-len-nu-mong-co-tron-dai-tay-det-do/feed/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\san-pham\ao-len-nu-mong-co-tron-dai-tay-det-do\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thoitrang.webtudong8giay.com/san-pham/ao-soi-len-linen-det-ma-in-hoa-tiet/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\san-pham\ao-soi-len-linen-det-ma-in-hoa-tiet\index.htm
+Content Type: text/html
+
+Uri: https://thoitrang.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min-1.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min-1.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/blocks-checkout.js?ver=1aeb3f9cd2b4952d3b7c658c3ac54767
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\blocks-checkout-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/blocks-checkout.js?ver=284fe2a81c2018b9c52e44d63387db63
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\blocks-checkout.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.js?ver=6d77f57ad4d2f28e9fae7e9327b354c9
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\cart-frontend-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.js?ver=c5f3f2cedbc4e8dce513a0285fc10c10
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\cart-frontend.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/checkout-frontend.js?ver=913b4940c23ca4a2c986f714e962806e
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout-frontend.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/checkout-frontend.js?ver=a4392447bf571a544c579a23dd39b854
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout-frontend-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/price-format.js?ver=83a0ea7448c2abea6bbfc3ff5713212f
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\price-format.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/price-format.js?ver=e99bed7a5cf7f43aadbce4396ccbcc5e
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\price-format-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-data.js?ver=7318f17e99fb56cda4dd7e6fbc16db3c
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-data-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-data.js?ver=c4782bb69c6088a91e3c9e57eec438e2
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-data.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-middleware.js?ver=4762048a52298c3edbcd0e8c86a24331
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-middleware.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-middleware.js?ver=cfefc68c23f627155c81d4aa8d2dbf3c
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-middleware-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-registry.js?ver=8e8154703a010d635c0c1a1766b9ca35
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-registry.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-registry.js?ver=b6339851784e6ad947a8015afb8847ff
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-registry-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-context.js?ver=38b8e4943a99efd126c509a65df0688e
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-context.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-context.js?ver=65e3c38669e82f3ed75ea378b29997f0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-context-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-hocs.js?ver=55647c9b478bc30776b5c52dc41b4954
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-hocs-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-hocs.js?ver=5b7a5ba123a336c3d7159fe4181e375b
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-hocs.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.5.2
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style-1.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.5.2
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style-1.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-settings.js?ver=7b2188da90828d22e68dae2a8129bd03
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-settings-1.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-settings.js?ver=c6d23997e3df41b18fe294b762f4d056
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-settings.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/6te17w016-fw074-33-100x100.jpg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\6te17w016-fw074-33-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/6te17w016-fw074-33.jpg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\6te17w016-fw074-33.jpg
+Content Type: image/jpeg
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/6te17w016-fw074-37.jpg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\6te17w016-fw074-37.jpg
+Content Type: image/jpeg
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/6te17w045-sk010-33-100x100.jpg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\6te17w045-sk010-33-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/6te17w045-sk010-33.jpg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\6te17w045-sk010-33.jpg
+Content Type: image/jpeg
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/6te17w045-sk010-35.jpg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\6te17w045-sk010-35.jpg
+Content Type: image/jpeg
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/bg-pattern-2.jpg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\bg-pattern-2.jpg
+Content Type: image/jpeg
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/bg.jpg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/cb-bg-img.jpg
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\cb-bg-img.jpg
+Content Type: image/jpeg
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/credit-card.png
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\credit-card.png
+Content Type: image/png
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/cropped-logo1-180x180.png
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\cropped-logo1-180x180.png
+Content Type: image/png
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/cropped-logo1-192x192.png
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\cropped-logo1-192x192.png
+Content Type: image/png
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/cropped-logo1-32x32.png
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\cropped-logo1-32x32.png
+Content Type: image/png
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/logistics-delivery-truck-in-movement.png
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\logistics-delivery-truck-in-movement.png
+Content Type: image/png
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/logo1.png
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\logo1.png
+Content Type: image/png
+
+Uri: https://thoitrang.webtudong8giay.com/wp-content/uploads/2018/04/talking-by-phone-auricular-symbol-with-speech-bubble.png
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-content\uploads\2018\04\talking-by-phone-auricular-symbol-with-speech-bubble.png
+Content Type: image/png
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/autop.min.js?ver=43197d709df445ccf849
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/blob.min.js?ver=a078f260190acf405764
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\blob.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/block-editor.min.js?ver=d39738cb7c1202964677
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\block-editor.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=eb2cdc8cd7a7975d49d9
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\block-serialization-default-parser.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/blocks.min.js?ver=69022aed79bfd45b3b1d
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\blocks.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/components.min.js?ver=57b49a5bb19d1f1d566a
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\components.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/compose.min.js?ver=37228270687b2a94e518
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/data-controls.min.js?ver=e10d473d392daa8501e8
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/data.min.js?ver=d8cf5b24f99c64ae47d6
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/date.min.js?ver=ce7daf24092d87ff18be
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\date.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/deprecated.min.js?ver=6c963cb9494ba26b77eb
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/dom.min.js?ver=133a042fbbef48f38107
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/element.min.js?ver=47162ff4492c7ec4956b
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/html-entities.min.js?ver=36a4a255da7dd2e1bf8e
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=b696c16720133edfc065
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\keyboard-shortcuts.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/keycodes.min.js?ver=6e0aadc0106bd8aadc89
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/notices.min.js?ver=9c1575b7a31659f45a45
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/plugins.min.js?ver=0d1b90278bae7df6ecf9
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/primitives.min.js?ver=ae0bece54c0487c976b1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/priority-queue.min.js?ver=99e325da95c5a35c7dc2
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/redux-routine.min.js?ver=c9ea6c0df793258797e6
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/rich-text.min.js?ver=c704284bebe26cf1dd51
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\rich-text.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/shortcode.min.js?ver=7539044b04e6bca57f2e
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\shortcode.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/style-engine.min.js?ver=10341d6e6decffab850e
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\style-engine.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/token-list.min.js?ver=f2cf0bb3ae80de227e43
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\token-list.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/warning.min.js?ver=4acee5fc2fd9a24cefc2
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/dist/wordcount.min.js?ver=feb9569307aec24292f2
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://thoitrang.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://thoitrang.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://thoitrang.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthoitrang.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://thoitrang.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthoitrang.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://thoitrang.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthoitrang.webtudong8giay.com%2Fsan-pham%2Fao-len-nu-mong-co-tron-dai-tay-det-do%2F
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://thoitrang.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthoitrang.webtudong8giay.com%2Fsan-pham%2Fao-len-nu-mong-co-tron-dai-tay-det-do%2F&format=xml
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://thoitrang.webtudong8giay.com/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://thoitrang.webtudong8giay.com/wp-json/wp/v2/product/121
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\wp-json\wp\v2\product\121
+Content Type: application/json
+
+Uri: https://thoitrang.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\thoitrang.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
